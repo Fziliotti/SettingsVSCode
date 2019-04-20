@@ -5,7 +5,7 @@ My personal VScode Settings
 
 
 My User settings:
-
+```js
 {
   "workbench.colorTheme": "Dracula",
   "window.zoomLevel": 1,
@@ -37,3 +37,4 @@ My User settings:
   "editor.parameterHints.enabled": false,
   "prettier.eslintIntegration": true
 }
+```
