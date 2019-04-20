@@ -1,4 +1,4 @@
 # SettingsVSCode
 My personal VScode Settings
 
-![Settings VScode Fziliotti][./settings.jpg]
+![Settings VScode Fziliotti][https://github.com/Fziliotti/SettingsVSCode/blob/master/settings.jpg]
